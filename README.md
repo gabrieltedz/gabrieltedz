@@ -2,11 +2,9 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gabrieltedz/gabrieltedz/blob/main/image.png" />
 &nbsp;&nbsp;&nbsp;
 
-<video controls width="100%" style="margin-bottom: 100px;">
-  <source src="https://github.com/gabrieltedz/gabrieltedz/blob/main/animi%C3%A7ao.mp4" type="mp4">
-  Seu navegador não suporta a reprodução de vídeo.
-</video>
+<video align="center" style="margin-bottom:100px" width=100% src="https://github.com/gabrieltedz/gabrieltedz/blob/main/image.png" />
 &nbsp;&nbsp;&nbsp;
+
 
 
 

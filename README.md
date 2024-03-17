@@ -1,6 +1,9 @@
 
 <img align="center" style="margin-bottom:100px" width=100%  height="300px" src="https://github.com/gabrieltedz/gabrieltedz/blob/main/image.png" />
 &nbsp;&nbsp;&nbsp;
+<img width=100% src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRlM2x1enM1MmxhMjY0cDFiaTN1NXhndTd6azA4ZjUyOGtiOWVtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+
+
 
 
 <p align="center">I like solving challenges using technology.

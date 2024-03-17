@@ -6,11 +6,6 @@
 <p align="center">I like solving challenges using technology.
 <br><br>With backend development using <strong>C++<strong>, I am passionate about discovering new things and using them to create high-quality solutions.</p>&nbsp;
 
-<div align="center" style="margin-bottom: 100px;">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats-git-main-gabrieltedz.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
-</div>
-
  
  &nbsp;
  &nbsp;

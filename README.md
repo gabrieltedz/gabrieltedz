@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gabrielvictor/gabrielvictor/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gabrieltedz/gabrieltedz/blob/main/image.png" />
 &nbsp;&nbsp;&nbsp;
 
 

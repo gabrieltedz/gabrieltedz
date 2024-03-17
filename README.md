@@ -2,6 +2,13 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gabrieltedz/gabrieltedz/blob/main/image.png" />
 &nbsp;&nbsp;&nbsp;
 
+<video controls width="100%" style="margin-bottom: 100px;">
+  <source src="https://github.com/gabrieltedz/gabrieltedz/blob/main/animi%C3%A7ao.mp4" type="mp4">
+  Seu navegador não suporta a reprodução de vídeo.
+</video>
+&nbsp;&nbsp;&nbsp;
+
+
 
 <p align="center">I like solving challenges using technology.
 <br><br>With backend development using <strong>C++<strong>, I am passionate about discovering new things and using them to create high-quality solutions.</p>&nbsp;

@@ -15,6 +15,12 @@
  &nbsp;
 
 
+### :bar_chart: GitHub stats
+
+[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltedz&count_private=true&show_icons=true&theme=dark)](https://github.com/gabrieltedz/github-readme-stats)
+
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltedz&show_icons=true&theme=dark)
+</div>
 
 ## My Skills
 
